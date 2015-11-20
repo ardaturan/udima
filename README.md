@@ -1,2 +1,2 @@
 # udima
-Universidad a distancia de MAdrid
+Universidad a distancia de Madrid
